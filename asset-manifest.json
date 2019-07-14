@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/books-to-read/static/css/main.b5fef3b3.chunk.css",
+    "main.js": "/books-to-read/static/js/main.692b4ef8.chunk.js",
+    "main.js.map": "/books-to-read/static/js/main.692b4ef8.chunk.js.map",
+    "runtime~main.js": "/books-to-read/static/js/runtime~main.bc730f6c.js",
+    "runtime~main.js.map": "/books-to-read/static/js/runtime~main.bc730f6c.js.map",
+    "static/js/2.44afff6c.chunk.js": "/books-to-read/static/js/2.44afff6c.chunk.js",
+    "static/js/2.44afff6c.chunk.js.map": "/books-to-read/static/js/2.44afff6c.chunk.js.map",
+    "index.html": "/books-to-read/index.html",
+    "precache-manifest.ccf91699ffd8a24b16a6c2dc44eee5f4.js": "/books-to-read/precache-manifest.ccf91699ffd8a24b16a6c2dc44eee5f4.js",
+    "service-worker.js": "/books-to-read/service-worker.js",
+    "static/css/main.b5fef3b3.chunk.css.map": "/books-to-read/static/css/main.b5fef3b3.chunk.css.map"
+  }
+}
